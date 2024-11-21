@@ -30,7 +30,7 @@
         <p></p>
 
         <div class="col">
-            <asp:Label ID="lblMessage" runat="server" Text=""></asp:Label>
+            <asp:Label ID="lblMessage" runat="server"></asp:Label>
         </div>
         <p></p>
     </section>
